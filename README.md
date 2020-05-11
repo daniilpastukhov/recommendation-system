@@ -1,7 +1,8 @@
 # Game recommendation system
 The goal of the project was making a web application with a content-based recommendation system. All recommendations are based on the Steam games dataset (you can find it in `data` folder). In order to be able to get recommendations, the user must rate at least few games, then the system will have enough information to propose new games.  
 Recommendation system is based on the genres and categories of games user likes/dislikes. It allows to get more relevant and 
-various list of games.
+various list of games. Getting new recommendations is quite fast, it requires some linear oprations and matrix multiplications, which can be done relatively fast.   
+In general, the total outcome of the project is sufficient, it gives reasonable recommendations, while there are few more options how to enhance the results.
 
 The application is deloyed on `heroku.com`.
 
