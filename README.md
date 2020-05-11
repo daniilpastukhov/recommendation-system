@@ -15,6 +15,7 @@ Password: 12345678
 - You can rate (like/dislike) games
 - You can open your profile and change your preferences
 - You can search for a concrete game
+- You can get new recommendations
 
 # How it looks like
 ![](assets/app.png)
