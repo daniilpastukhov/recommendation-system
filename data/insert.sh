@@ -1,0 +1,1 @@
+mongoimport --host ${MONGODB_IMPORT_URL} --drop --ssl --username shared_user --password b03DBP48utBGWi8T --authenticationDatabase admin --db recommendation-system --collection games --type csv --file data/steam_merged.csv --headerline

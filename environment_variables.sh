@@ -1,0 +1,8 @@
+export FLASK_TEMPLATE_FOLDER="../frontend/dist/"
+export FLASK_STATIC_FOLDER="../frontend/dist/static"
+export FLASK_SECRET_KEY="zxg68Sjbd9Spou2Ajbscuw3m"
+export FLASK_JWT_SECRET_KEY="x5VuxgMqhwycxa8mS5Invag8"
+export HOST="0.0.0.0"
+export PORT="5001"
+export MONGODB_URI="mongodb://shared_user:b03DBP48utBGWi8T@cluster0-shard-00-00-mhres.mongodb.net:27017,cluster0-shard-00-01-mhres.mongodb.net:27017,cluster0-shard-00-02-mhres.mongodb.net:27017/auth?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority"
+export MONGODB_IMPORT_URL="Cluster0-shard-0/cluster0-shard-00-00-mhres.mongodb.net:27017,cluster0-shard-00-01-mhres.mongodb.net:27017,cluster0-shard-00-02-mhres.mongodb.net:27017"
