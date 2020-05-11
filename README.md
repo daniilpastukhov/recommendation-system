@@ -5,6 +5,10 @@ various list of games.
 
 The application is deloyed on `heroku.com`.
 
+### Demo user
+Login: test@test.com  
+Password: 12345678
+
 # How it looks like
 ![](assets/app.png)
 
